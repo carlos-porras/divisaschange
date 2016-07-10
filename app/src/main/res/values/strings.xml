@@ -6,4 +6,5 @@
     <string name="euro">Euro</string>
     <string name="yen">Yen</string>
     <string name="american_dollar">Dolar Americano</string>
+    <string name="message_empty_currency">Ingrese el valor del string</string>
 </resources>

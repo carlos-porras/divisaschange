@@ -10,6 +10,7 @@
     tools:context="com.example.capacitaciones.divisaschange.MainActivity"
     android:orientation="vertical">
     <EditText
+        android:id="@+id/editTextValueToConvert"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:drawableStart="@drawable/ic_editor_attach_money"

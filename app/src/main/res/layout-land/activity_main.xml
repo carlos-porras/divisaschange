@@ -11,6 +11,7 @@
     tools:context="com.example.capacitaciones.divisaschange.MainActivity">
 
     <EditText
+        android:id="@+id/editTextValueToConvert"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:drawableLeft="@drawable/ic_editor_attach_money"
