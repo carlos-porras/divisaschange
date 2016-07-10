@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">divisaschange</string>
-    <string name="result">Resultado</string>
-    <string name="currency_name">Valor Moneda</string>
+    <string name="result">résultat</string>
+    <string name="currency_name">valeur de la monnaie</string>
     <string name="sterling">Libra esterlina</string>
     <string name="euro">Euro</string>
     <string name="yen">Yen</string>
